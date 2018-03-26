@@ -1,0 +1,11 @@
+﻿Worst times of each sorting algorithm
+1) Bubble Sort: Өn2
+	
+2) Selection Sort: Өn2
+	
+3) Insertion Sort: Өn2
+	
+4) Comb Sort: Өn2
+	
+5) Cocktail Sort: Өn2
+	
